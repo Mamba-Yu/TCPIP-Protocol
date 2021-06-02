@@ -165,9 +165,13 @@ IPv6子系统：Socket6、TCP6、UDP6、RawIP6、ICMP6、PMTU、SFIB6、ND、AM6
 #### 标准符合：
 
 IPv4： RFC 950    ICMPv4: 1256     
+
 IPv6:    RFC 2460    ND: 2461      AM6:2462        ICMPv6:2463
+
 TCP： RFC 793 / RFC 879
+
 UDP:   RFC 768
+
 PPP:    RFC 1661
 
 
